@@ -23,3 +23,5 @@
   휴대폰을 스트림덱처럼 쓰는 IP 기반 원격 제어
 - [galaxy_standbyMode](https://github.com/seokyunlee-dev/galaxy_standbyMode)  
   아이폰 스탠바이 모드를 안드로이드에서 구현
+- [live_trans](https://github.com/seokyunlee-dev/live_trans)  
+  미디어 오디오 실시간 인식·번역 자막 오버레이
