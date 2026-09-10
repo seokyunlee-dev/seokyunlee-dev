@@ -25,3 +25,5 @@
   아이폰 스탠바이 모드를 안드로이드에서 구현
 - [live_trans](https://github.com/seokyunlee-dev/live_trans)  
   미디어 오디오 실시간 인식·번역 자막 오버레이
+- [news_summary](https://github.com/seokyunlee-dev/news_summary)  
+  매일 아침 네이버 랭킹 뉴스 1위 기사를 Gemini로 요약해 카카오톡 전송
